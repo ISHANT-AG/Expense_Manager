@@ -1,0 +1,375 @@
+{
+    "balance": 37287.0,
+    "transactions": [
+        {
+            "date": "2026-01-02 11:29:02",
+            "type": "income",
+            "amount": 26416.0,
+            "category": "Saving"
+        },
+        {
+            "date": "2026-01-02 11:30:42",
+            "type": "expense",
+            "amount": 10000.0,
+            "category": "Lent to Sameer sir"
+        },
+        {
+            "date": "2026-01-02 11:30:52",
+            "type": "expense",
+            "amount": 200.0,
+            "category": "Lent to Vidhan"
+        },
+        {
+            "date": "2026-01-02 11:31:03",
+            "type": "expense",
+            "amount": 135.0,
+            "category": "Lent to Utkarsh "
+        },
+        {
+            "date": "2026-01-02 11:34:33",
+            "type": "income",
+            "amount": 14500.0,
+            "category": "Borrowed from Mummy"
+        },
+        {
+            "date": "2026-01-02 11:38:09",
+            "type": "expense",
+            "amount": 2037.0,
+            "category": "Interest"
+        },
+        {
+            "date": "2026-01-03 23:13:54",
+            "type": "expense",
+            "amount": 40.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-04 21:38:03",
+            "type": "expense",
+            "amount": -45.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-05 16:38:52",
+            "type": "income",
+            "amount": 200.0,
+            "category": "Repayment from vidhan"
+        },
+        {
+            "date": "2026-01-07 17:28:43",
+            "type": "expense",
+            "amount": 448.0,
+            "category": "Lent to Mummy"
+        },
+        {
+            "date": "2026-01-08 15:34:33",
+            "type": "expense",
+            "amount": 90.0,
+            "category": "Lent to mummy"
+        },
+        {
+            "date": "2026-01-08 15:34:44",
+            "type": "expense",
+            "amount": 12.0,
+            "category": "study"
+        },
+        {
+            "date": "2026-01-08 15:35:45",
+            "type": "income",
+            "amount": 90.0,
+            "category": "extra"
+        },
+        {
+            "date": "2026-01-08 15:36:00",
+            "type": "expense",
+            "amount": 90.0,
+            "category": "Lent to mummy"
+        },
+        {
+            "date": "2026-01-08 15:37:12",
+            "type": "income",
+            "amount": 1.0,
+            "category": "extra"
+        },
+        {
+            "date": "2026-01-08 15:37:23",
+            "type": "expense",
+            "amount": -1.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-08 15:38:13",
+            "type": "expense",
+            "amount": -46.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-08 15:38:40",
+            "type": "expense",
+            "amount": 92.0,
+            "category": "setoff"
+        },
+        {
+            "date": "2026-01-08 19:57:06",
+            "type": "expense",
+            "amount": 354.0,
+            "category": "Lent to mummy"
+        },
+        {
+            "date": "2026-01-08 20:05:01",
+            "type": "expense",
+            "amount": 141.0,
+            "category": "Lent to mummy"
+        },
+        {
+            "date": "2026-01-09 00:04:13",
+            "type": "expense",
+            "amount": 358.0,
+            "category": "daily use"
+        },
+        {
+            "date": "2026-01-11 00:26:27",
+            "type": "income",
+            "amount": 41.0,
+            "category": "bittu"
+        },
+        {
+            "date": "2026-01-15 22:10:13",
+            "type": "income",
+            "amount": 1123.0,
+            "category": "Repayment from mummy"
+        },
+        {
+            "date": "2026-01-15 22:10:30",
+            "type": "expense",
+            "amount": 30.0,
+            "category": "guest"
+        },
+        {
+            "date": "2026-01-15 22:10:40",
+            "type": "expense",
+            "amount": 80.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-15 22:10:48",
+            "type": "expense",
+            "amount": 75.0,
+            "category": "food"
+        },
+        {
+            "date": "2026-01-15 22:11:03",
+            "type": "expense",
+            "amount": 100.0,
+            "category": "daily use"
+        },
+        {
+            "date": "2026-01-16 20:55:57",
+            "type": "expense",
+            "amount": 26.0,
+            "category": "daily use"
+        },
+        {
+            "date": "2026-01-16 20:59:42",
+            "type": "expense",
+            "amount": 20.0,
+            "category": "ezee"
+        },
+        {
+            "date": "2026-01-18 15:10:23",
+            "type": "expense",
+            "amount": 150.0,
+            "category": "SWEET"
+        },
+        {
+            "date": "2026-01-18 15:11:26",
+            "type": "expense",
+            "amount": 55.0,
+            "category": "RAILWAY STN"
+        },
+        {
+            "date": "2026-01-18 15:11:47",
+            "type": "expense",
+            "amount": 167.0,
+            "category": "RICKSHAW"
+        },
+        {
+            "date": "2026-01-18 15:11:59",
+            "type": "income",
+            "amount": 800.0,
+            "category": "CASH"
+        },
+        {
+            "date": "2026-01-18 15:16:43",
+            "type": "income",
+            "amount": 3000.0,
+            "category": "Repayment from Sameer sir"
+        },
+        {
+            "date": "2026-01-19 23:17:36",
+            "type": "expense",
+            "amount": 300.0,
+            "category": "Lent to bittu"
+        },
+        {
+            "date": "2026-01-19 23:18:03",
+            "type": "expense",
+            "amount": 300.0,
+            "category": "Lent to shalu"
+        },
+        {
+            "date": "2026-01-19 23:18:26",
+            "type": "expense",
+            "amount": 250.0,
+            "category": "anniversary gift"
+        },
+        {
+            "date": "2026-01-19 23:37:03",
+            "type": "income",
+            "amount": 300.0,
+            "category": "Repayment from shalu"
+        },
+        {
+            "date": "2026-01-20 07:10:35",
+            "type": "income",
+            "amount": 300.0,
+            "category": "Repayment from bittu"
+        },
+        {
+            "date": "2026-01-20 07:11:06",
+            "type": "income",
+            "amount": 10000.0,
+            "category": "Stipend"
+        },
+        {
+            "date": "2026-01-20 07:11:36",
+            "type": "expense",
+            "amount": 10000.0,
+            "category": "Lent to sameer sir"
+        },
+        {
+            "date": "2026-01-22 12:59:48",
+            "type": "expense",
+            "amount": 58.0,
+            "category": "ice cream + cold drink + namkeen"
+        },
+        {
+            "date": "2026-01-22 12:59:53",
+            "type": "income",
+            "amount": 150.0,
+            "category": "papa"
+        },
+        {
+            "date": "2026-01-24 20:22:42",
+            "type": "expense",
+            "amount": 110.0,
+            "category": "subsciption + dosa"
+        },
+        {
+            "date": "2026-01-25 09:35:42",
+            "type": "income",
+            "amount": 50.0,
+            "category": "bitty"
+        },
+        {
+            "date": "2026-01-26 18:02:45",
+            "type": "income",
+            "amount": 5000.0,
+            "category": "Repayment from sameer sir"
+        },
+        {
+            "date": "2026-01-27 15:07:27",
+            "type": "income",
+            "amount": 50.0,
+            "category": "SHALU"
+        },
+        {
+            "date": "2026-01-27 15:07:45",
+            "type": "income",
+            "amount": 500.0,
+            "category": "MAA"
+        },
+        {
+            "date": "2026-01-27 15:07:54",
+            "type": "income",
+            "amount": 500.0,
+            "category": "PAPA"
+        },
+        {
+            "date": "2026-01-27 15:08:06",
+            "type": "income",
+            "amount": 350.0,
+            "category": "BITTU"
+        },
+        {
+            "date": "2026-01-27 15:08:51",
+            "type": "expense",
+            "amount": 1200.0,
+            "category": "Lent to PARTH"
+        },
+        {
+            "date": "2026-01-29 15:49:27",
+            "type": "income",
+            "amount": 1200.0,
+            "category": "Repayment from parth"
+        },
+        {
+            "date": "2026-01-29 15:50:47",
+            "type": "expense",
+            "amount": 130.0,
+            "category": "chowmein"
+        },
+        {
+            "date": "2026-01-29 15:50:57",
+            "type": "income",
+            "amount": 50.0,
+            "category": "bitty"
+        },
+        {
+            "date": "2026-01-31 19:46:34",
+            "type": "expense",
+            "amount": 80.0,
+            "category": "dosa + cold drink"
+        },
+        {
+            "date": "2026-01-31 19:46:47",
+            "type": "income",
+            "amount": 20.0,
+            "category": "bittu"
+        },
+        {
+            "date": "2026-01-31 19:47:14",
+            "type": "expense",
+            "amount": 158.0,
+            "category": "mobile cover"
+        },
+        {
+            "date": "2026-01-31 19:49:57",
+            "type": "expense",
+            "amount": 160.0,
+            "category": "Lent to suyash"
+        }
+    ],
+    "assets": [
+        {
+            "name": "Sameer sir",
+            "amount": 12000.0,
+            "date": "2026-01-20"
+        },
+        {
+            "name": "Utkarsh ",
+            "amount": 135.0
+        },
+        {
+            "name": "suyash",
+            "amount": 160.0,
+            "date": "2026-01-31"
+        }
+    ],
+    "liabilities": [
+        {
+            "name": "Mummy",
+            "amount": 14500.0
+        }
+    ]
+}
